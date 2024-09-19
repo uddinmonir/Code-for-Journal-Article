@@ -31,11 +31,11 @@
 * A. Hossain, S Uddin, P Rahman, MJ Anee, MMH Rifat, M. M. Uddin: Wavelet and spectral analysis of normal and abnormal heart sound for diagnosing cardiac disorders, BioMed Research International, Vol.  2022 (1),  P. 9092346
 * MNE Mostafa, EMM Alam, M. M. Uddin: Numerical analysis of cavitating flow on hydrofoil, MIST International Journal of Science and Technology, Vol. 10, P. 11-19
 * M. Uddin, M. M. Uddin, M. A. H. Khan: SVD-Krylov-based sparsity-preserving techniques to optimally stabilize the incompressible Navier–Stokes flows, International Journal of Dynamics and Control, Vol. 11 (6), P. 2763-2773
-  ## 2023
-  * X Du, KIB Iqbal, M. M. Uddin, MT Hossain, MNI Shuzan:  A computationally effective time-restricted stability preserving H2-optimal model order reduction approach, Results in Control and Optimization, Vol. 11, P. 100217
-  * M. N. I. Shuzan, M. E. H. Chowdhury, M. B. I. Reaz, A. Khandakar, F. F. Abir, M. A. A. Faisal, S. H. M. Ali, A. A. A. Bakar, M. H. Chowdhury, Z. B. Mahbub, M. M. Uddin, M. Alhatou: Machine learning-based classification of healthy and impaired gaits using 3D-GRF signals. Biomedical Signal Processing and Control, Vol. 81, P. 104448
+## 2023
+* X Du, KIB Iqbal, M. M. Uddin, MT Hossain, MNI Shuzan:  A computationally effective time-restricted stability preserving H2-optimal model order reduction approach, Results in Control and Optimization, Vol. 11, P. 100217
+* M. N. I. Shuzan, M. E. H. Chowdhury, M. B. I. Reaz, A. Khandakar, F. F. Abir, M. A. A. Faisal, S. H. M. Ali, A. A. A. Bakar, M. H. Chowdhury, Z. B. Mahbub, M. M. Uddin, M. Alhatou: Machine learning-based classification of healthy and impaired gaits using 3D-GRF signals. Biomedical Signal Processing and Control, Vol. 81, P. 104448
   * M. Hossain, K. I. B. Iqbal, A. Haque, M. M. Uddin, M. S. Hossain: Efficient aerodynamic design using BézierGAN and model order reduction: A computational study, Results in Engineering, Vol. 23, P. 102571
-  ## 2024
-  * K. S. Sanjid, M. S. S Junayed, M. T. Hossain, Y. L. Wang, M. M. Uddin, S. A. Haque: From pixels to pathology: A novel dual-pathway multi-scale hierarchical upsampling network for mri-based prostate zonal segmentation, Intelligent Systems with Applications, Vol. 22, P. 200382
-  * M. Uddin, M. M. Uddin, M.A.H. Khan: Memory-Efficient Interpolatory Projection Techniques for the Stabilization of Incompressible Navier-Stokes Flows. Contemporary Mathematics, Vol. 5, P. 913-929
-  * M.S.S .Junayed, K.S. Sanjid, M.T. Hossain, M. M. Uddin, S. A. Haque: Topology‐aware anatomical segmentation of the Circle of Willis: HUNet unveils the vascular network. IET Image Processing, Vol. , P. 
+## 2024
+* K. S. Sanjid, M. S. S Junayed, M. T. Hossain, Y. L. Wang, M. M. Uddin, S. A. Haque: From pixels to pathology: A novel dual-pathway multi-scale hierarchical upsampling network for mri-based prostate zonal segmentation, Intelligent Systems with Applications, Vol. 22, P. 200382
+* M. Uddin, M. M. Uddin, M.A.H. Khan: Memory-Efficient Interpolatory Projection Techniques for the Stabilization of Incompressible Navier-Stokes Flows. Contemporary Mathematics, Vol. 5, P. 913-929
+* M.S.S .Junayed, K.S. Sanjid, M.T. Hossain, M. M. Uddin, S. A. Haque: Topology‐aware anatomical segmentation of the Circle of Willis: HUNet unveils the vascular network. IET Image Processing, Vol. , P. 
